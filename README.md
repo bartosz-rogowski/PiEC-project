@@ -17,3 +17,5 @@ Example results (**NOTE: It might take some time to load whole page with css**):
 - [rep.html](https://htmlpreview.github.io/?https://github.com/bartosz-rogowski/PiEC-project/blob/main/results/rep.html).
 
 Data source: [here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks).
+
+**Please note this is python-oriented project, it's not about beautiful css styling :)**
